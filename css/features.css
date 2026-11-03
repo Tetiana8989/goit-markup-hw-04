@@ -28,3 +28,18 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+.feature-icon-wrap{
+  display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+padding: 24px 100px;;
+gap: 0;
+border: 1px solid #8e8f99;
+border-radius: 4px;
+background: #f4f4fd;
+}
+.feature-icon{
+  width: 64px;
+  height: 64px;
+}
